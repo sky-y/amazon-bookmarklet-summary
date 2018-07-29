@@ -1,6 +1,4 @@
 (function(){
-  var id = 'skyy0079-22'
-
   // Original: https://gist.github.com/peccu/d59939959881c34bf9e1d10b2aa6f468#file-copytoclipboard-js
   function copy (copyText, successCB) {
     if(!successCB){
@@ -41,6 +39,7 @@
   }
 
   if (location.href.search(/[^0-9A-Z]([B0-9][0-9A-Z]{9})([^0-9A-Z]|$)/) != -1) {
+    var id = 'YOUR_AMAZON_AFFILIATE_ID';
     var u = 'http://' + location.host + '/dp/' + RegExp.$1 + '/' + id;
     copy(u, function(text) {
       prompt('Amazon URL: Copied!', text);

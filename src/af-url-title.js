@@ -1,5 +1,5 @@
 (function(){
-  var id = 'skyy0079-22'
+  var id = 'YOUR_AMAZON_AFFILIATE_ID'
 
   // Original: https://gist.github.com/peccu/d59939959881c34bf9e1d10b2aa6f468#file-copytoclipboard-js
   function copy (copyText, successCB) {
