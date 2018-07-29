@@ -9,7 +9,8 @@ These bookmarklets shows an alert popup.
 - `dest/url.txt`: Just shows Amazon URL.
 - `dest/url-title.txt`: Shows Amazon URL and its title.
 - `dest/markdown.txt`: Shows Amazon URL and its title as a Markdown link.
-- `dest/af-*.txt`: With Affiliate ID. (Place your Affilicate ID instead of `YOUR_AMAZON_AFFILIATE_ID`)
+- `dest/scrapbox.txt`: Shows Amazon URL and its title as a Scrapbox(<https://scrapbox.io/>) link.
+- `dest/af-*.txt`: With Affiliate ID. (**Replace `YOUR_AMAZON_AFFILIATE_ID` with your Affilicate ID**)
 
 ## Build
 
