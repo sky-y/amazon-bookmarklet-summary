@@ -21,3 +21,7 @@ $ npm run build:url  # build url.js bookmarklet (see package.json)
 ```
 
 After building, bookmarklets (with `javascript:` prefix) will be generated in `dest/` directory.
+
+## Special Thanks
+
+- [Gist: peccu/copyToClipboard.js](https://gist.github.com/peccu/d59939959881c34bf9e1d10b2aa6f468#file-copytoclipboard-js)
